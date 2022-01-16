@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Watchlist\n"
+"POT-Creation-Date: 2018-11-11 20:38+1300\n"
+"PO-Revision-Date: 2018-11-11 20:48+1300\n"
+"Last-Translator: \n"
+"Language-Team: Asrosoft\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+"X-Poedit-SearchPathExcluded-1: images\n"
+"X-Poedit-SearchPathExcluded-2: js\n"
+
+#: help.php:28
+msgid "Watchlist Help"
+msgstr ""
+
+#: help.php:31
+msgid "What is Watchlist Plugin?"
+msgstr ""
+
+#: help.php:34
+msgid ""
+"Watchlist plugin allows you to display a link that will allow user to save "
+"items on a watchlist page"
+msgstr ""
+
+#: help.php:37
+msgid "How does Watchlist plugin work?"
+msgstr ""
+
+#: help.php:40
+msgid ""
+"In order to use Watchlist plugin, you should edit your theme files and add "
+"the following line anywhere in the code you want the Watchlist link to appear"
+msgstr ""
+
+#: help.php:46
+msgid "Could I cutomize the style of Watchlist plugin?"
+msgstr ""
+
+#: help.php:49
+msgid ""
+"Of course you can. Watchlist display a link only you can use css to make a "
+"button or anything else"
+msgstr ""
+
+#: help.php:52
+msgid "Did Watchlist plugin work with all version of OSClass?"
+msgstr ""
+
+#: help.php:55
+msgid ""
+"In order to work this pluggin need OSClass v2.2 and up without this version "
+"pluggin will crash"
+msgstr ""
+
+#: help.php:58
+#, php-format
+msgid "You have %s version"
+msgstr ""
+
+#: index.php:19 index.php:26
+msgid "Add to watchlist"
+msgstr "加入观看列表"
+
+#: index.php:42
+msgid "Remove from favourites"
+msgstr "从收藏夹中删除"
+
+#: index.php:44
+msgid "Add to favourites"
+msgstr "加入“最喜欢的"
+
+#: index.php:61 index.php:69
+msgid "Watchlist"
+msgstr "监视列表"
+
+#: index.php:152 index.php:153 index.php:154 watchlist_route.php:71
+msgid "Your watchlist"
+msgstr "你的监视列表"
+
+#: watchlist.php:20
+msgid "Your favourites"
+msgstr "你的最爱"
+
+#: watchlist.php:24 watchlist_route.php:75
+msgid "You don't have any items yet"
+msgstr "你还没有任何物品"
+
+#: watchlist.php:26 watchlist_route.php:77
+#, php-format
+msgid "You are watching %d item"
+msgid_plural "You are watching %d items"
+msgstr[0] "你的监视列表%d"
+
+#: watchlist.php:57 watchlist_route.php:110
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "此操作无法撤消。 你确定你要继续吗？"
+
+#: watchlist.php:57 watchlist_route.php:110
+msgid "Delete"
+msgstr "删除"
